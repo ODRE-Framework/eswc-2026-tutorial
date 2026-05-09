@@ -12,4 +12,4 @@ Resources presented during the [ESWC 2026 tutorial Policy Evaluation and Enforce
 
  | Project       | Grant |
  |   :---:      |      :---      |
- | <img src="https://github.com/user-attachments/assets/152dc6f1-e418-41bc-9c50-88cc88b33525" height="80"/>| his project has been partially funded by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid in the Line A, Emerging PhD researchers with the project GUIA (M230020126A-AJCA) |
+ | <img src="https://github.com/user-attachments/assets/152dc6f1-e418-41bc-9c50-88cc88b33525" height="80"/>| This project has been partially funded by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid in the Line A, Emerging PhD researchers with the project GUIA (M230020126A-AJCA) |
